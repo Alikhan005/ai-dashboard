@@ -2,8 +2,3 @@
   command = "npm run build"
   publish = ".next"
   base = "web-dashboard"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200 
